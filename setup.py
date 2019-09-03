@@ -1,15 +1,15 @@
 #!/usr/bin/env python
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(
       name='pyMorse',
       version='1.0.0',
-      author='aBoredDev',
+      author='Robbie Munro',
       author_email='rmunro2324@gmail.com',
-      packages=['pyMorse'],
-      scripts=[''],
-      url='http://pypi.python.org/pypi/pyMorse/',
-      license='LICENSE',
+      packages=find_packages(),
+      url='https://github.com/Eagle-Eye2324/pyMorse',
+      license='GPL-3.0-only',
       description='A library for decoding and encoding strings in Morse code.',
-      long_description=open('README.txt').read()
+      long_description=open('README.md').read(),
+      long_description_content_type='text/markdown'
 )

@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-
 # The characters automatically defined by the package, in morse code.  Included mostly for future proofing purposes and
 # in case something happens to the characters dictionary.
 _morseCharacters = [
