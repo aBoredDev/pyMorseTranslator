@@ -1,1 +1,1 @@
-name = "pyMorse"
+name = "pyMorseTranslator"

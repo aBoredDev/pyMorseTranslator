@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-      name='pyMorse',
+      name='pyMorseTranslator',
       version='1.0.0',
       author='Robbie Munro',
       author_email='rmunro2324@gmail.com',
