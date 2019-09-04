@@ -1,4 +1,4 @@
-# pyMorse
+# pyMorseTranslator
 
 pyMorse provides tools for encoding and decoding strings in
 morse code.  A typical usage scenario looks like this:
