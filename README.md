@@ -35,9 +35,11 @@ The output of this code would be:
 
 * Custom symbols for dots, dashes and separators
 
+* Custom characters for encoders and decoders
+
 ### Planned Features
 
-1. Custom characters for encoders and decoders
+None right now.
 
 ## Resources
 
