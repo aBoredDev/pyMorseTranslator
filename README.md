@@ -43,4 +43,4 @@ None right now.
 
 ## Resources
 
-Currently the only resource available is the files themselves, available at https://github.com/Eagle-Eye2324/pyMorse
+Currently the only resource available is the files themselves, available at https://github.com/Eagle-Eye2324/pyMorseTranslator
