@@ -7,7 +7,7 @@ setup(
       author='Robbie Munro',
       author_email='rmunro2324@gmail.com',
       packages=find_packages(),
-      url='https://github.com/Eagle-Eye2324/pyMorse',
+      url='https://github.com/Eagle-Eye2324/pyMorseTranslator',
       license='GPL-3.0-only',
       description='A library for decoding and encoding strings in Morse code.',
       long_description=open('README.md').read(),
