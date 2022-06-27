@@ -4,7 +4,7 @@ pyMorseTranslator provides tools for encoding and decoding strings in
 morse code.  A typical usage scenario looks like this:
 
     #!/usr/bin/env python
-    from pyMorse import translator
+    from pyMorseTranslator import translator
     
 	
     # Initialize the encoder and decoder
